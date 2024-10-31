@@ -3,15 +3,14 @@
 
 * {font-family: 'Readex Pro';}
 
-
 a {
     text-decoration: none;
-    color: white !important;
+    color: rgb(255, 255, 255) !important;
     font-weight: 500;
 }
 
 a:hover {
-    color: #d33682 !important;
+    color: #9c3f9c !important;
     text-decoration: none;
 }
 
